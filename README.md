@@ -1,6 +1,11 @@
 <h1 align="center">Sofia Karibova-Boychuk</h1>
 <h3 align="center">Business & System Analyst | Web3 | Blockchain | FinTech</h3>
 
+![Blockchain](https://img.shields.io/badge/Blockchain-Ethereum-black)
+![Solidity](https://img.shields.io/badge/Solidity-Smart%20Contracts-blue)
+![Web3](https://img.shields.io/badge/Web3-DeFi-purple)
+![BPMN](https://img.shields.io/badge/BPMN-2.0-orange)
+
 ---
 
 ## 🚀 About Me
