@@ -69,7 +69,7 @@ BPMN • UML • REST • Solidity • SQL • Swagger • Jira • Git • Powe
 Russian — Native  
 English — C1  
 
-📍 Saint Petersburg / Phuket / Remote
+📍 Saint Petersburg  / Remote
 
 <!--
 **sofo4kaaaa/sofo4kaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
